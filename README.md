@@ -1,77 +1,24 @@
-# Hi, I'm Juan Camilo Beltrán Dueñas 👋
+Hi, I'm Juan Camilo Beltrán Dueñas 👋  
+Analyste d’affaires & Data Analyst | Junior Web Developer – Québec, Canada
 
-**Analyste d’affaires & Data Analyst | Web Developer junior – Québec, Canada**
+I help organizations make better decisions by transforming business needs into
+data-driven insights, dashboards, and custom digital solutions.  
 
-I help businesses make better decisions using **data, dashboards and custom applications**.  
-My background mixes **5+ years of business & data analysis** (Colombia) with a **DEC en Programmation Web et Mobile** in Québec.
+My background combines **5+ years of experience in business & data analysis** in Colombia  
+with a **DEC en Programmation Web et Mobile** in Québec, allowing me to bridge  
+the gap between **business operations** and **technical implementation**.
 
-- 🇫🇷 / 🇪🇸 / 🇬🇧 Trilingual (French, Spanish, English)
-- Looking for opportunities in Québec (2025–2026) as:
-  - **Analyste d’affaires**
-  - **Data Analyst / Analyste de données**
-  - **Junior Web Developer**
+🌐 Trilingual — **French | Spanish | English**
 
----
+🔎 Actively seeking opportunities in Québec (2025–2026) as:
+- **Analyste d’affaires**
+- **Data Analyst / Analyste de données**
+- **Junior Web Developer**
 
-## 🧠 Core Skills
+I specialize in:
+- **Power BI, SQL, data modelling, BI dashboards**
+- **Python (FastAPI), React, Node.js, .NET**
+- **Business process analysis & digital transformation**
 
-**Data & BI**
-
-- SQL (SQL Server, PostgreSQL), relational modelling  
-- Power BI, Power Query, Excel avancé (Power Pivot, DAX)  
-- KPIs, reporting, analyse de performance (ventes, marge, inventaire)
-
-**Backend & APIs**
-
-- Python (FastAPI), Node.js (Express)  
-- ASP.NET MVC / C#  
-- Microservices, REST APIs, JSON, Auth
-
-**Frontend**
-
-- React, JavaScript, HTML, CSS  
-- Basic UX/UI for dashboards and internal tools
-
-**Other**
-
-- Raspberry Pi (GPIO, Tkinter, petits POC IoT)  
-- Git, GitHub, Docker, Postman
-
----
-
-## 🌟 Featured Projects
-
-🔹 **[thot-tutoring](https://github.com/Bodoque1593/thot-tutoring)**  
-Plateforme web MVC pour la gestion du tutorat (Étudiants, Tuteurs, cours) avec ASP.NET MVC et SQL Server. Stage Projet.
-
-🔹 **[bussines-performance-kpis-powerbi](https://github.com/Bodoque1593/bussines-performance-kpis-powerbi)**  
-Dashboard de performance (ventes, marge, catégories) avec Power BI à partir de données réelles d’entreprise.
-
-🔹 **[fastapi-multi-clients-demo](https://github.com/Bodoque1593/fastapi-multi-clients-demo)**  
-API FastAPI consommée par plusieurs clients (Symfony, Java, Django) pour démontrer une architecture multi-clients.
-
-🔹 **[retrogames-react-app](https://github.com/Bodoque1593/retrogames-react-app)**  
-App React pour rechercher des jeux rétro, avec intégration de vidéos YouTube.
-
-🔹 **[ia1-data-analysis-streamlit](https://github.com/Bodoque1593/ia1-data-analysis-streamlit)**  
-Application Streamlit pour entraîner et comparer des modèles de classification et régression à partir de fichiers CSV.
-
-🔹 **[raspberrypi-alarm-system-poc](https://github.com/Bodoque1593/raspberrypi-alarm-system-poc)**  
-Système d’alarme avec Raspberry Pi, boutons, LEDs et interface Tkinter.
-
-🔹 **[computer-vision-python-ia2](https://github.com/Bodoque1593/computer-vision-python-ia2)**  
-Projet de vision par ordinateur (classification d’images, détection de mouvement, reconnaissance faciale) en Python.
-
----
-
-## 📌 About Me
-
-- 🎓 Dernière session du DEC en Programmation Web et Mobile (Québec)
-- 🧮 Expérience réelle comme **Analyste de données / Analyste d’affaires** (Excel, Power BI, SQL)
-- 🍽️ Co-fondateur d’**Aborigen Bar & Comida Salvaje** en Colombie (utilisation réelle de KPIs, inventaires, ventes)
-- 🎯 Objectif 2025–2026 : rejoindre une équipe en TI / données à Montréal ou Rive-Sud
-
----
-
-💬 Feel free to contact me on **LinkedIn**:  
-[linkedin.com/in/beltran-juan](https://www.linkedin.com/in/beltran-juan/)
+Passionate about using data and technology to improve commercial performance,
+optimize decision-making, and support real-world operations.
