@@ -41,29 +41,26 @@ My background mixes **5+ years of business & data analysis** (Colombia) with a *
 
 ## 🌟 Featured Projects
 
+🔹 **[thot-tutoring](https://github.com/Bodoque1593/thot-tutoring)**  
+Plateforme web MVC pour la gestion du tutorat (Étudiants, Tuteurs, cours) avec ASP.NET MVC et SQL Server. Stage Projet.
+
 🔹 **[bussines-performance-kpis-powerbi](https://github.com/Bodoque1593/bussines-performance-kpis-powerbi)**  
 Dashboard de performance (ventes, marge, catégories) avec Power BI à partir de données réelles d’entreprise.
-
-🔹 **[computer-vision-python-ia2](https://github.com/Bodoque1593/computer-vision-python-ia2)**  
-Projet de vision par ordinateur (classification d’images, détection de mouvement, reconnaissance faciale) en Python.
-
-🔹 **[ia1-data-analysis-streamlit](https://github.com/Bodoque1593/ia1-data-analysis-streamlit)**  
-Application Streamlit pour entraîner et comparer des modèles de classification et régression à partir de fichiers CSV.
-
-🔹 **[neosante-rag-rcw](https://github.com/Bodoque1593/neosante-rag-rcw)**  
-Plateforme de télémédecine (projet de session) avec microservices, FastAPI, RAG/IA, statistiques et OCR.
-
-🔹 **[retrogames-react-app](https://github.com/Bodoque1593/retrogames-react-app)**  
-App React pour rechercher des jeux rétro, avec intégration de vidéos YouTube.
-
-🔹 **[raspberrypi-alarm-system-poc](https://github.com/Bodoque1593/raspberrypi-alarm-system-poc)**  
-Système d’alarme avec Raspberry Pi, boutons, LEDs et interface Tkinter.
 
 🔹 **[fastapi-multi-clients-demo](https://github.com/Bodoque1593/fastapi-multi-clients-demo)**  
 API FastAPI consommée par plusieurs clients (Symfony, Java, Django) pour démontrer une architecture multi-clients.
 
-🔹 **[thot-tutoring](https://github.com/Bodoque1593/thot-tutoring)**  
-Plateforme web MVC pour la gestion du tutorat (Étudiants, Tuteurs, cours) avec ASP.NET MVC et SQL Server.
+🔹 **[retrogames-react-app](https://github.com/Bodoque1593/retrogames-react-app)**  
+App React pour rechercher des jeux rétro, avec intégration de vidéos YouTube.
+
+🔹 **[ia1-data-analysis-streamlit](https://github.com/Bodoque1593/ia1-data-analysis-streamlit)**  
+Application Streamlit pour entraîner et comparer des modèles de classification et régression à partir de fichiers CSV.
+
+🔹 **[raspberrypi-alarm-system-poc](https://github.com/Bodoque1593/raspberrypi-alarm-system-poc)**  
+Système d’alarme avec Raspberry Pi, boutons, LEDs et interface Tkinter.
+
+🔹 **[computer-vision-python-ia2](https://github.com/Bodoque1593/computer-vision-python-ia2)**  
+Projet de vision par ordinateur (classification d’images, détection de mouvement, reconnaissance faciale) en Python.
 
 ---
 
