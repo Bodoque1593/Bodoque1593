@@ -1,24 +1,32 @@
-Hi, I'm Juan Camilo Beltrán Dueñas 👋  
-Analyste d’affaires & Data Analyst | Junior Web Developer – Québec, Canada
+Hi, I'm Juan Camilo Beltrán Dueñas 
 
-I help organizations make better decisions by transforming business needs into
-data-driven insights, dashboards, and custom digital solutions.  
+Programmeur analyste junior | Backend & applicatif  
+Québec, Canada
 
-My background combines **5+ years of experience in business & data analysis** in Colombia  
-with a **DEC en Programmation Web et Mobile** in Québec, allowing me to bridge  
-the gap between **business operations** and **technical implementation**.
+I am a junior programmer analyst with a DEC in Web and Mobile Programming in Québec, focused on backend and application development. I have a solid foundation in server-side development, REST APIs, SQL databases, and application logic.
 
-🌐 Trilingual — **French | Spanish | English**
+My background also includes several years of experience in business and data analysis, which allows me to understand functional requirements and translate business needs into reliable technical solutions. I am comfortable working in structured environments and collaborating within Agile/Scrum teams.
 
-🔎 Actively seeking opportunities in Québec (2025–2026) as:
-- **Analyste d’affaires**
-- **Data Analyst / Analyste de données**
-- **Junior Web Developer**
+🌐 Languages  
+French (advanced) | Spanish (native) | English (intermediate)
 
-I specialize in:
-- **Power BI, SQL, data modelling, BI dashboards**
-- **Python (FastAPI), React, Node.js, .NET**
-- **Business process analysis & digital transformation**
+🔧 Technical skills  
+- C#, .NET, ASP.NET (notions)  
+- Python  
+- REST APIs, JSON, XML  
+- SQL Server / MySQL  
+- Backend application logic, CRUD operations  
+- Git / GitHub  
+- Agile / Scrum methodologies  
 
-Passionate about using data and technology to improve commercial performance,
-optimize decision-making, and support real-world operations.
+📚 Education  
+DEC — Web & Mobile Programming  
+Institut Teccart, Montréal (QC)
+
+🎯 Currently seeking junior opportunities in Québec (2025–2026) as:  
+- Programmeur analyste junior  
+- Junior backend developer  
+- Analyste-programmeur  
+- Application developer (junior)
+
+I am motivated to grow in backend and enterprise application development, contribute to real-world projects, and continue learning within professional software teams.
